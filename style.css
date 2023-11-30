@@ -2,10 +2,10 @@ body {
 
 }
 
-.principal{
-    background: #CCCCCC;
-    padding: 30px;
+.titulo-principal {
+    padding-left: 20px;
 }
+
 .itens {
     font-style: italic;
 }
@@ -15,9 +15,10 @@ body {
     padding: 20px;
 }
 
-h2 {
-    text-align: center;
+.titulo-centralizado {
+    text-align: center
 }
+
 ul {
     display: inline-block;
     vertical-align: top;
